@@ -1,0 +1,8 @@
+.terraform
+terraform.tfstate
+.terraform.lock.hcl
+/backend/dist
+/dist
+/backend/__pycache__
+env
+event.json

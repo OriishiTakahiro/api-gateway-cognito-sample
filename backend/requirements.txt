@@ -1,0 +1,4 @@
+nanoid
+requests==2.25.1
+# https://pyjwt.readthedocs.io/en/latest/installation.html
+pyjwt[crypto]
